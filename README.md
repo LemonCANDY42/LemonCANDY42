@@ -3,7 +3,6 @@
 > 🤖 Tinkering with practical AI stuff that can actually ship.
 
 I build AI products and hands-on ML systems.
-Less PPT, more working demos.
 
 ## 🔥 Current interests
 - Multimodal agents + MCP workflows
