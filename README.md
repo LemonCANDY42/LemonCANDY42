@@ -22,7 +22,7 @@ I build AI products and hands-on ML systems.
 - [Deep-Learning-Toolbox](https://github.com/LemonCANDY42/Deep-Learning-Toolbox) - Deep learning experiments and utilities.
 - [ViT_Action](https://github.com/LemonCANDY42/ViT_Action) - ViT action understanding experiments.
 
-## 🔒 Private projects (no public links)
+## 🔒 Private projects
 - **SaySee**: multimodal speaking-coach app with low-latency voice interaction.
 - **AI Digital Human Productization**: from demo to deployable product/ops pipeline.
 - **Edge Delivery Optimization**: stable multi-model inference on constrained hardware.
