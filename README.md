@@ -1,31 +1,28 @@
-# Hey, I'm LemonCANDY42 👋
+# LemonCANDY42
 
-> 🤖 Tinkering with practical AI stuff that can actually ship.
+> **我相信：面向物理世界的全能 Agent 范式，黎明已在地平线显现。**
+>
+> *I believe the dawn of universal agents for the physical world is already on the horizon.*
 
-I build AI products and hands-on ML systems.
+I’m here to build tiny, working pieces of that future.
 
-## 🔥 Current interests
-- Multimodal agents + MCP workflows
-- Deep Learning for real-world CV (detection / segmentation / tracking / action)
-- Speech stack (ASR / TTS / lip-sync) with low-latency interaction
-- Edge deployment on Jetson / RK3588 with ONNX + TensorRT tuning
-- Turning rough ideas into 0→1 prototypes, then hardening to 1→N
+## ✨ Lately, I’m obsessed with
+- Multimodal agents that can reason, call tools, and actually finish tasks
+- Deep Learning + CV in the real world (detection / segmentation / tracking / action)
+- Speech interaction loops (ASR / TTS / lip-sync) that feel low-latency and natural
+- Edge deployment that survives messy constraints (Jetson / RK3588, ONNX, TensorRT)
 
-## 🧪 Focus right now
-`LLM / VLM` · `Deep Learning` · `Computer Vision`  
-`ASR / TTS` · `ONNX / TensorRT / Triton` · `Edge AI`
+## 🧪 Playground stack
+`LLM` · `VLM` · `Deep Learning` · `Computer Vision` · `ASR/TTS` · `MCP` · `ONNX/TensorRT`
 
-## 🌟 Public repos I touch
-- [mcp-minicpmv-video](https://github.com/LemonCANDY42/mcp-minicpmv-video) - MiniCPM-V video MCP server.
-- [mcp-funasr-stdio](https://github.com/LemonCANDY42/mcp-funasr-stdio) - FunASR transcription MCP server.
+## 🌌 Public projects
+- [mcp-minicpmv-video](https://github.com/LemonCANDY42/mcp-minicpmv-video) - video understanding MCP server.
+- [mcp-funasr-stdio](https://github.com/LemonCANDY42/mcp-funasr-stdio) - speech transcription MCP server.
 - [sherpa_onnx_ortv2](https://github.com/LemonCANDY42/sherpa_onnx_ortv2) - Flutter + ONNX Runtime v2 compatibility work.
-- [Deep-Learning-Toolbox](https://github.com/LemonCANDY42/Deep-Learning-Toolbox) - Deep learning experiments and utilities.
-- [ViT_Action](https://github.com/LemonCANDY42/ViT_Action) - ViT action understanding experiments.
+- [Deep-Learning-Toolbox](https://github.com/LemonCANDY42/Deep-Learning-Toolbox) - DL experiments and utilities.
 
-## 🔒 Private projects
-- **SaySee**: multimodal speaking-coach app with low-latency voice interaction.
-- **AI Digital Human Productization**: from demo to deployable product/ops pipeline.
-- **Edge Delivery Optimization**: stable multi-model inference on constrained hardware.
+## 🔒 Private builds
+- **SaySee**: a multimodal speaking-coach app with low-latency voice interaction.
+- **Digital Human Productization**: turning demos into deployable product + ops pipelines.
 
-## 🎯 Side note
-I like messy constraints, weird edge cases, and making things work anyway.
+North star: turning frontier models into dependable agents that can operate in the physical world.
