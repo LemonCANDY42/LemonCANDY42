@@ -17,7 +17,6 @@ I’m here to build tiny, working pieces of that future.
 - [mcp-minicpmv-video](https://github.com/LemonCANDY42/mcp-minicpmv-video) - video understanding MCP server.
 - [mcp-funasr-stdio](https://github.com/LemonCANDY42/mcp-funasr-stdio) - speech transcription MCP server.
 - [sherpa_onnx_ortv2](https://github.com/LemonCANDY42/sherpa_onnx_ortv2) - Flutter + ONNX Runtime v2 compatibility work.
-- [Deep-Learning-Toolbox](https://github.com/LemonCANDY42/Deep-Learning-Toolbox) - DL experiments and utilities.
 
 ## 🔒 Private builds
 - **SaySee**: a multimodal speaking-coach app with low-latency voice interaction.
