@@ -1,8 +1,6 @@
 # LemonCANDY42
 
-> **我相信：面向物理世界的全能 Agent 范式，黎明已在地平线显现。**
->
-> *I believe the dawn of universal agents for the physical world is already on the horizon.*
+> **I believe the dawn of universal agents for the physical world is already on the horizon.**
 
 I’m here to build tiny, working pieces of that future.
 
